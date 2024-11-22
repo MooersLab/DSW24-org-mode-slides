@@ -5,7 +5,9 @@
 # Org-mode and scientific writing project management
 
 60-minute talk given at the 2024 November 22 Oklahoma Data Science Workshop meeting. 
-The slides contain numerous valuable hyperlinks.
+The slides contain numerous valuable hyperlinks for new and not-so-new Emacs users.
+There were seven overflow slides for the discussion section.
+
 
 The video is located [here](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null).
 
