@@ -7,9 +7,9 @@
 Given at the November 22 meeting of the Oklahoma Data Science Workshop. 
 The slides contain numerous valuable hyperlinks.
 
-The video is located [here]().
+The video is located [here](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null).
 
-The associated init.el file is located [here]().
+The associated init.el file is located [here](https://github.com/MooersLab/dsw-2024-org-mode-init).
 
 ## Update history
 
