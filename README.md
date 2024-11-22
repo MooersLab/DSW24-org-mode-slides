@@ -2,9 +2,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Data Science Workshop talk about org-mode and scientific writing project management
+# Org-mode and scientific writing project management
 
-Given at the November 22 meeting of the Oklahoma Data Science Workshop. 
+60-minute talk given at the 2024 November 22 Oklahoma Data Science Workshop meeting. 
 The slides contain numerous valuable hyperlinks.
 
 The video is located [here](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null).
