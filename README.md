@@ -13,6 +13,14 @@ The video is located [here](https://mediasite.ouhsc.edu/Mediasite/Channel/python
 
 The associated init.el file is located [here](https://github.com/MooersLab/dsw-2024-org-mode-init).
 
+## For those new to Emacs
+
+Consider [TeXmacs](https://www.texmacs.org/tmweb/home/videos.en.html). 
+It supports drag-and-drop assembly of scientific papers. 
+It is available for MacOS, Windows, and Linux with drag-and-drop installers.
+This is a heavy wrapper around GNU Emacs.
+There is a series of short videos to get you started.
+
 ## Update history
 
 |Version      | Changes                                                                                                                                                                         | Date                 |
