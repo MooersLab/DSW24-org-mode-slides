@@ -4,14 +4,15 @@
 
 # Org-mode and scientific writing project management
 
-60-minute talk given at the 2024 November 22 Oklahoma Data Science Workshop meeting. 
+55-minute [talk](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null) given at the 2024 November 22 Oklahoma Data Science Workshop meeting. 
 The slides contain numerous valuable hyperlinks for new and not-so-new Emacs users.
-There were seven overflow slides for the discussion section.
-
-
-The video is located [here](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null).
-
+Seven overflow slides were discussed after the official end of the talk.
+The discussion lasted for 25 minutes.
 The associated init.el file is located [here](https://github.com/MooersLab/dsw-2024-org-mode-init).
+
+This talk refers to an excellent [talk](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/356583673e7e40a1828990acb60f7f061d) in March 2024 by Dr. Marcus Birkenkrahe.
+He introduced Emacs and Org-mode to the Data Science Workshop.
+The AI-generated images in this talk are also outstanding.
 
 ## For those new to Emacs
 
@@ -23,9 +24,11 @@ There is a series of short videos to get you started.
 
 ## Update history
 
-|Version      | Changes                                                                                                                                                                         | Date                 |
-|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
-| Version 0.1 |   Added badges, funding, and update table.  Initial commit.                                                                                                                | 2024 November 22  |
+|Version      | Changes                                                                                                           | Date              |
+|:-----------|:-------------------------------------------------------------------------------------------------------------------|:------------------|
+| Version 0.1 |   Added badges, funding, and update table.  Initial commit.                                                       | 2024 November 22  |
+| Version 0.2 |   Added link to Marcus's talk and the link to TeXmacs.                                                            | 2024 November 24  |
+
 
 ## Sources of funding
 
